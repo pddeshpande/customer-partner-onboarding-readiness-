@@ -19,11 +19,12 @@ As someone who thrives on process clarity, partner success, and onboarding strat
 
 | Folder | What I Created |
 |--------|----------------|
-| `01_onboarding-strategy` | Playbooks, checklists, and success KPIs I’d use for new partners |
-| `02_crm-tools-readiness` | Salesforce & CRM guides reflecting partner and contact setup strategies |
-| `03_api-integration-awareness` | Beginner-friendly docs & mock Postman files for integration knowledge |
-| `04_course-certifications` | SaaS onboarding, API basics, CRM trail completions |
-| `05_assets` | Visual diagrams of partner journey flows and onboarding processes |
+| `01_onboarding-strategy`           | Playbooks, checklists, and success KPIs I’d use for new partners |
+| `02_crm-tools-readiness`           | Salesforce & CRM guides reflecting partner and contact setup strategies |
+| `03_api-integration-awareness`     | Beginner-friendly docs & mock Postman files for integration knowledge |
+| `04_assets`                        | Visual diagrams of partner journey flows and onboarding processes |
+| `05_kpi-dashboard`                 | Metrics tracker, success benchmarks, and partner engagement stats |
+| `06_checklists-and-templates`      | Markdown checklists and template guides for onboarding tracking |
 
 ---
 
