@@ -1,0 +1,15 @@
+# 🔗 API Integration Basics
+
+## What is an API?
+An API (Application Programming Interface) lets systems talk to each other. In onboarding, it's how partners connect their platform to ours.
+
+## Key Concepts
+- **Endpoints**: URLs where the data lives
+- **Authentication**: API keys or OAuth
+- **Payload**: Data sent in a request (usually JSON)
+- **Response Codes**: 200 (OK), 401 (Unauthorized), 404 (Not Found)
+
+## Tools You Can Use
+- **Postman** for testing
+- **Swagger** for documentation
+- **Webhook.site** for dummy testing
