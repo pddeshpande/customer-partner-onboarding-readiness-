@@ -1,0 +1,22 @@
+# 🧩 CRM Setup Notes for Partner Onboarding
+
+## 🔍 Key CRM Fields
+- Partner Name, Region, Type (Reseller, Referral, Tech)
+- Partner Owner, Sales Rep, POC Contact
+- Onboarding Stage (Kickoff, Certifying, GTM Ready, Live)
+- Key Dates: Kickoff Date, Launch Date
+- Integration Type + Tools Used (API, Plugin, Direct Link)
+- Certification Status (Y/N) and Score (%)
+
+## 🧭 Process Flow in CRM
+1. Partner Account Created → Contacts Added
+2. Onboarding Object Triggered → Milestones tracked
+3. Reminders: Training overdue, GTM plan pending
+4. Metrics updated weekly: Last Login, Portal Usage, CRM Stage
+5. Tags for Follow-up: Upsell Ready, Cross-Sell Fit, At-Risk
+
+## 📊 Reports to Build
+- Partner Onboarding Progress Tracker
+- Weekly Certification Status
+- First Deal Timeline
+- Portal Engagement Report (Logins, Downloads, Tool Accessed)
