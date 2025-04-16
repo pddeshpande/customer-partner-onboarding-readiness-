@@ -1,0 +1,12 @@
+# 📊 Partner KPI Dashboard Mock
+
+| Metric                          | Goal                | Actual (Sample) | Status     |
+|--------------------------------|---------------------|-----------------|------------|
+| Partner Portal Access (Day 1)  | 100%                | 92%             | ⚠️ Pending |
+| Certification Completion       | 80% by Week 2       | 70%             | ⚠️ Lagging |
+| GTM Plan Uploaded              | 100% by Week 3      | 100%            | ✅ Done     |
+| First Integration Live         | 70% by Week 4       | 60%             | ⚠️ Almost  |
+| First Sale (Deal Closed)       | 1 in 60 days        | 1 in 45 days    | ✅ Ahead    |
+| Weekly CRM Logins              | 4+ per week         | 5/week          | ✅ Good     |
+
+> This dashboard can be recreated in Google Sheets or CRM as a real-time tracker.
